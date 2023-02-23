@@ -1,4 +1,4 @@
-import saluto_andrea_pasanti
+import saluto_andrea_paesanti
 
 def saluto_nome_cognome():
     print("Salve Luca Pezzolati")
